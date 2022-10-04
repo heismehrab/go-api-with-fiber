@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="130.185.120.205" id="2c27e245-06ba-4645-ac9b-47b8b51f26e7" port="22" customName="vpn" nameFormat="CUSTOM" username="root" useOpenSSHConfig="false">
+        <option name="customName" value="vpn" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2c41604e-46c3-41d7-b7f1-6869d0690d5d" name="vpn">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="130.185.120.205" port="22" sshConfigId="2c27e245-06ba-4645-ac9b-47b8b51f26e7" sshConfig="vpn">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
